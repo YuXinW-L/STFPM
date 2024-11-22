@@ -8,7 +8,7 @@ https://arxiv.org/abs/2103.04257v3
 # statement
 This project modifies the STFPM project released by the original author, fixing the problem that the original project code could not generate and save abnormal heatmap segmentation. This project modifies the main.py file to support saving the abnormal segmentation result during project execution. At the same time, detailed Chinese comments have been added to the main.py code to facilitate readers' understanding.  
 
-本项目修改了原作者发布的STFPM项目，修复了原项目代码无法生成和保存异常热图分割的问题，主要修改了main.py文件，以支持保存项目执行过程中的异常分割结果。同时，main.py代码中添加了详细的中文注释，以方便读者理解。
+本项目修改了原作者发布的STFPM项目，修复了原项目代码无法生成和保存异常分割热力图的问题，主要修改了main.py文件，以支持保存项目执行过程中的异常分割结果。同时，main.py代码中添加了详细的中文注释，以方便读者理解。
 
 # Dataset
 Download dataset from [MvTec website](https://www.mvtec.com/company/research/datasets/mvtec-ad/).
